@@ -1,0 +1,3 @@
+[submodule "ext/vscode-git-push-submodule"]
+	path = ext/vscode-git-push-submodule
+	url = https://github.com/dstaley/vscode-git-push-submodule
